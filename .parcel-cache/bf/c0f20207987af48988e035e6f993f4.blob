@@ -1,0 +1,4 @@
+console.log('我是main.js2');
+const request = new XMLHttpRequest;
+request.open = ("GET", "/style.css")
+request.onload==>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>AJAX</h1>
+    <button id="getCSS">加载css</button>
+    <script src="/index.HASH_REF_b5bc0354373028d14f6d7f728e0a979d.js"></script>
+    <script src="/index.HASH_REF_3310b3e21aad6db72fee610104fe0da8.js"></script>
+</body>
+
+</html>

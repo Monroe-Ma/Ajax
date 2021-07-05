@@ -1,0 +1,10 @@
+console.log('我是main.js2');
+const request = new XMLHttpRequest;
+request.open = ("GET", "/style.css")
+request.onload = () => {
+    console.log("request.respone")
+    console.log()
+
+}
+request.onerror()
+request.send()
